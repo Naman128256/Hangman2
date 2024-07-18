@@ -127,6 +127,6 @@ while 5>0:
             print("                <<< AAPKA KHEL SAMAPT HUA AAP HAAR CHUKE HO >>>")
             break
         
-print(listofspaces)
+print(finalanswer)
                
 
